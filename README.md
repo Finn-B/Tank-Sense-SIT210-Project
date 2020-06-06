@@ -5,3 +5,8 @@ The project monitors the water level in a water tank and uses this information t
 The .ino, .h, .cpp files are for a Particle Argon with a HC-SR04 Ultrasonic Distance sensor, Power Relay Module and a water solenoid.
 
 The .py file was devloped on a raspberry pi 4 with the GUI displayed on a Waveshare 2.8inch LCD 320×240 touchscreen.
+
+A link to a demonstration video of the project in action from my Youtube Channel.
+
+https://youtu.be/MHIwIRZN2OI
+
